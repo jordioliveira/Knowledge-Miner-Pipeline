@@ -1,0 +1,20 @@
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Variáveis de Ambiente
+.env
+
+# Diretório de Saída e Temporários
+output/
+*.webm
+*.mp3
+*.m4a
+*.part
+transcricao.txt
+
+# Ambientes Virtuais (caso use no futuro)
+venv/
+env/
+.venv/
